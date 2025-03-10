@@ -1,4 +1,6 @@
-﻿using PantheonAddonFramework;
+﻿using Il2Cpp;
+using MelonLoader;
+using PantheonAddonFramework;
 using PantheonAddonFramework.Configuration;
 using PantheonAddonFramework.Models;
 using PantheonAddonFramework.UI;
@@ -16,8 +18,17 @@ public class MacroHotKeys : Addon
     // Use int or the appropriate enum type instead of KeyCodes for the dictionary key
     private readonly Dictionary<int, string> _keypadMacroMap;
 
+
     public MacroHotKeys()
     {
+        var macroBar = UIMacroBar.Instance;
+
+        var mList = MacroLists.GetAllMacros();
+
+        foreach(var macro in mList.Buttons)
+        {
+            MelonLogger.Msg("Macro found - " + macro);
+        }
         // Initialize the dictionary in the constructor
         _keypadMacroMap = new Dictionary<int, string>
         {
