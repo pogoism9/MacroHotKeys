@@ -16,469 +16,469 @@
 
 	<ItemGroup>
 		<Reference Include="Assembly-CSharp">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Assembly-CSharp.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Assembly-CSharp.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppAK.Wwise.Unity.API">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppAK.Wwise.Unity.API.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppAK.Wwise.Unity.API.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppAK.Wwise.Unity.API.WwiseTypes">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppAK.Wwise.Unity.API.WwiseTypes.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppAK.Wwise.Unity.API.WwiseTypes.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppAK.Wwise.Unity.MonoBehaviour">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppAK.Wwise.Unity.MonoBehaviour.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppAK.Wwise.Unity.MonoBehaviour.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppAK.Wwise.Unity.Timeline">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppAK.Wwise.Unity.Timeline.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppAK.Wwise.Unity.Timeline.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppAmazingAssets.TerrainToMesh">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppAmazingAssets.TerrainToMesh.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppAmazingAssets.TerrainToMesh.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppAnimancer">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppAnimancer.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppAnimancer.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppAnimancer.FSM">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppAnimancer.FSM.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppAnimancer.FSM.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2Cppcom.bartofzo.nativetrees">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2Cppcom.bartofzo.nativetrees.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2Cppcom.bartofzo.nativetrees.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2Cppcom.rlabrecque.steamworks.net">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2Cppcom.rlabrecque.steamworks.net.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2Cppcom.rlabrecque.steamworks.net.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppDebugDrawingExtensions">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppDebugDrawingExtensions.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppDebugDrawingExtensions.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppDOTween">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppDOTween.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppDOTween.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppDOTweenAsm">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppDOTweenAsm.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppDOTweenAsm.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppDOTweenPro">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppDOTweenPro.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppDOTweenPro.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppHTE">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppHTE.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppHTE.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppI18N">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppI18N.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppI18N.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppI18N.West">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppI18N.West.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppI18N.West.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppKinematicCharacterController">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppKinematicCharacterController.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppKinematicCharacterController.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppLogicalGraph">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppLogicalGraph.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppLogicalGraph.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppMeshSplit">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppMeshSplit.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppMeshSplit.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppMessagePack.Annotations">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppMessagePack.Annotations.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppMessagePack.Annotations.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppMiniProfiler">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppMiniProfiler.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppMiniProfiler.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppMono.Security">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppMono.Security.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppMono.Security.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2Cppmscorlib">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2Cppmscorlib.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2Cppmscorlib.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppNewtonsoft.Json">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppNewtonsoft.Json.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppNewtonsoft.Json.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppPlugins">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppPlugins.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppPlugins.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppRainy">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppRainy.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppRainy.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppRootMotion">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppRootMotion.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppRootMotion.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppScripts">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppScripts.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppScripts.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppServiceStack.Interfaces">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppServiceStack.Interfaces.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppServiceStack.Interfaces.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppSuperInvoke">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppSuperInvoke.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppSuperInvoke.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppSystem.Core">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppSystem.Core.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppSystem.Core.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppSystem.Data">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppSystem.Data.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppSystem.Data.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppSystem">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppSystem.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppSystem.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppSystem.Drawing">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppSystem.Drawing.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppSystem.Drawing.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppSystem.Numerics">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppSystem.Numerics.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppSystem.Numerics.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppSystem.Runtime.Serialization">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppSystem.Runtime.Serialization.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppSystem.Runtime.Serialization.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppSystem.Xml">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppSystem.Xml.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppSystem.Xml.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppSystem.Xml.Linq">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppSystem.Xml.Linq.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppSystem.Xml.Linq.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppTcpReply">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppTcpReply.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppTcpReply.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppTrinarySoftware.MEC">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppTrinarySoftware.MEC.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppTrinarySoftware.MEC.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppViNL.CoreNet">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppViNL.CoreNet.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppViNL.CoreNet.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppViNL">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppViNL.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppViNL.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2Cppvr_pantheon_persist_shared">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2Cppvr_pantheon_persist_shared.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2Cppvr_pantheon_persist_shared.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppWaveHarmonic.Crest">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppWaveHarmonic.Crest.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppWaveHarmonic.Crest.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppWaveHarmonic.Crest.Shared">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppWaveHarmonic.Crest.Shared.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppWaveHarmonic.Crest.Shared.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppWaveHarmonic.Crest.Splines">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppWaveHarmonic.Crest.Splines.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2CppWaveHarmonic.Crest.Splines.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2Cpp__Generated">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2Cpp__Generated.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Il2Cpp__Generated.dll</HintPath>
 		</Reference>
 		<Reference Include="PantheonAddonFramework">
-		  <HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\UserLibs\PantheonAddonFramework.dll</HintPath>
+		  <HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\UserLibs\PantheonAddonFramework.dll</HintPath>
 		</Reference>
 		<Reference Include="PantheonAddons">
 		  <HintPath>..\..\..\..\AppData\Roaming\PantheonAddons\PantheonAddons.dll</HintPath>
 		</Reference>
 		<Reference Include="Unity.Addressables">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.Addressables.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.Addressables.dll</HintPath>
 		</Reference>
 		<Reference Include="Unity.AI.Navigation">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.AI.Navigation.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.AI.Navigation.dll</HintPath>
 		</Reference>
 		<Reference Include="Unity.Burst">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.Burst.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.Burst.dll</HintPath>
 		</Reference>
 		<Reference Include="Unity.Burst.Unsafe">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.Burst.Unsafe.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.Burst.Unsafe.dll</HintPath>
 		</Reference>
 		<Reference Include="Unity.Collections">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.Collections.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.Collections.dll</HintPath>
 		</Reference>
 		<Reference Include="Unity.Collections.LowLevel.ILSupport">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.Collections.LowLevel.ILSupport.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.Collections.LowLevel.ILSupport.dll</HintPath>
 		</Reference>
 		<Reference Include="Unity.Deformations">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.Deformations.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.Deformations.dll</HintPath>
 		</Reference>
 		<Reference Include="Unity.Entities">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.Entities.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.Entities.dll</HintPath>
 		</Reference>
 		<Reference Include="Unity.Entities.Graphics">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.Entities.Graphics.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.Entities.Graphics.dll</HintPath>
 		</Reference>
 		<Reference Include="Unity.Entities.Hybrid">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.Entities.Hybrid.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.Entities.Hybrid.dll</HintPath>
 		</Reference>
 		<Reference Include="Unity.Entities.Hybrid.HybridComponents">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.Entities.Hybrid.HybridComponents.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.Entities.Hybrid.HybridComponents.dll</HintPath>
 		</Reference>
 		<Reference Include="Unity.InputSystem">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.InputSystem.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.InputSystem.dll</HintPath>
 		</Reference>
 		<Reference Include="Unity.InputSystem.ForUI">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.InputSystem.ForUI.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.InputSystem.ForUI.dll</HintPath>
 		</Reference>
 		<Reference Include="Unity.Mathematics">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.Mathematics.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.Mathematics.dll</HintPath>
 		</Reference>
 		<Reference Include="Unity.Mathematics.Extensions">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.Mathematics.Extensions.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.Mathematics.Extensions.dll</HintPath>
 		</Reference>
 		<Reference Include="Unity.MemoryProfiler">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.MemoryProfiler.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.MemoryProfiler.dll</HintPath>
 		</Reference>
 		<Reference Include="Unity.Profiling.Core">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.Profiling.Core.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.Profiling.Core.dll</HintPath>
 		</Reference>
 		<Reference Include="Unity.RenderPipelines.Core.Runtime">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.RenderPipelines.Core.Runtime.dll</HintPath>
 		</Reference>
 		<Reference Include="Unity.RenderPipelines.GPUDriven.Runtime">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.RenderPipelines.GPUDriven.Runtime.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.RenderPipelines.GPUDriven.Runtime.dll</HintPath>
 		</Reference>
 		<Reference Include="Unity.RenderPipelines.HighDefinition.Config.Runtime">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.RenderPipelines.HighDefinition.Config.Runtime.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.RenderPipelines.HighDefinition.Config.Runtime.dll</HintPath>
 		</Reference>
 		<Reference Include="Unity.RenderPipelines.HighDefinition.Runtime">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.RenderPipelines.HighDefinition.Runtime.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.RenderPipelines.HighDefinition.Runtime.dll</HintPath>
 		</Reference>
 		<Reference Include="Unity.ResourceManager">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.ResourceManager.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.ResourceManager.dll</HintPath>
 		</Reference>
 		<Reference Include="Unity.Scenes">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.Scenes.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.Scenes.dll</HintPath>
 		</Reference>
 		<Reference Include="Unity.Serialization">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.Serialization.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.Serialization.dll</HintPath>
 		</Reference>
 		<Reference Include="Unity.TextMeshPro">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.TextMeshPro.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.TextMeshPro.dll</HintPath>
 		</Reference>
 		<Reference Include="Unity.Timeline">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.Timeline.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.Timeline.dll</HintPath>
 		</Reference>
 		<Reference Include="Unity.Transforms">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.Transforms.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.Transforms.dll</HintPath>
 		</Reference>
 		<Reference Include="Unity.Transforms.Hybrid">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.Transforms.Hybrid.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.Transforms.Hybrid.dll</HintPath>
 		</Reference>
 		<Reference Include="Unity.VisualEffectGraph.Runtime">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.VisualEffectGraph.Runtime.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\Unity.VisualEffectGraph.Runtime.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.AccessibilityModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.AccessibilityModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.AccessibilityModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.AIModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.AIModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.AIModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.AMDModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.AMDModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.AMDModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.AndroidJNIModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.AndroidJNIModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.AndroidJNIModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.AnimationModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.AnimationModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.AnimationModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.ARModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.ARModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.ARModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.AssetBundleModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.AssetBundleModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.AssetBundleModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.AudioModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.AudioModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.AudioModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.ClothModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.ClothModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.ClothModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.ContentLoadModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.ContentLoadModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.ContentLoadModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.CoreModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.CoreModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.CoreModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.CrashReportingModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.CrashReportingModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.CrashReportingModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.DirectorModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.DirectorModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.DirectorModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.DSPGraphModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.DSPGraphModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.DSPGraphModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.GameCenterModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.GameCenterModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.GameCenterModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.GIModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.GIModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.GIModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.GraphicsStateCollectionSerializerModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.GraphicsStateCollectionSerializerModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.GraphicsStateCollectionSerializerModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.GridModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.GridModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.GridModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.HierarchyCoreModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.HierarchyCoreModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.HierarchyCoreModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.HotReloadModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.HotReloadModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.HotReloadModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.ImageConversionModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.ImageConversionModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.ImageConversionModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.IMGUIModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.IMGUIModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.IMGUIModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.InputForUIModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.InputForUIModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.InputForUIModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.InputLegacyModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.InputLegacyModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.InputLegacyModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.InputModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.InputModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.InputModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.JSONSerializeModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.JSONSerializeModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.JSONSerializeModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.LocalizationModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.LocalizationModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.LocalizationModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.MarshallingModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.MarshallingModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.MarshallingModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.MultiplayerModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.MultiplayerModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.MultiplayerModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.NVIDIAModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.NVIDIAModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.NVIDIAModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.ParticleSystemModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.ParticleSystemModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.ParticleSystemModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.PerformanceReportingModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.PerformanceReportingModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.PerformanceReportingModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.Physics2DModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.Physics2DModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.Physics2DModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.PhysicsModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.PhysicsModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.PhysicsModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.PropertiesModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.PropertiesModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.PropertiesModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.ScreenCaptureModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.ScreenCaptureModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.ScreenCaptureModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.ShaderVariantAnalyticsModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.ShaderVariantAnalyticsModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.ShaderVariantAnalyticsModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.SharedInternalsModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.SharedInternalsModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.SharedInternalsModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.SpriteMaskModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.SpriteMaskModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.SpriteMaskModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.SpriteShapeModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.SpriteShapeModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.SpriteShapeModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.StreamingModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.StreamingModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.StreamingModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.SubstanceModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.SubstanceModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.SubstanceModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.SubsystemsModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.SubsystemsModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.SubsystemsModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.TerrainModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.TerrainModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.TerrainModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.TerrainPhysicsModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.TerrainPhysicsModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.TerrainPhysicsModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.TextCoreFontEngineModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.TextCoreFontEngineModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.TextCoreFontEngineModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.TextCoreTextEngineModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.TextCoreTextEngineModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.TextCoreTextEngineModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.TextRenderingModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.TextRenderingModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.TextRenderingModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.TilemapModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.TilemapModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.TilemapModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.TLSModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.TLSModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.TLSModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.UI">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.UI.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.UI.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.UIElementsModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.UIElementsModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.UIElementsModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.UIModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.UIModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.UIModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.UmbraModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.UmbraModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.UmbraModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.UnityAnalyticsCommonModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.UnityAnalyticsCommonModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.UnityAnalyticsCommonModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.UnityAnalyticsModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.UnityAnalyticsModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.UnityAnalyticsModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.UnityConnectModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.UnityConnectModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.UnityConnectModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.UnityCurlModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.UnityCurlModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.UnityCurlModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.UnityTestProtocolModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.UnityTestProtocolModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.UnityTestProtocolModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.UnityWebRequestAssetBundleModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.UnityWebRequestAssetBundleModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.UnityWebRequestAssetBundleModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.UnityWebRequestAudioModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.UnityWebRequestAudioModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.UnityWebRequestAudioModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.UnityWebRequestModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.UnityWebRequestModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.UnityWebRequestModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.UnityWebRequestTextureModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.UnityWebRequestTextureModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.UnityWebRequestTextureModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.UnityWebRequestWWWModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.UnityWebRequestWWWModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.UnityWebRequestWWWModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.VehiclesModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.VehiclesModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.VehiclesModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.VFXModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.VFXModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.VFXModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.VideoModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.VideoModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.VideoModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.VRModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.VRModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.VRModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.WindModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.WindModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.WindModule.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.XRModule">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.XRModule.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\Il2CppAssemblies\UnityEngine.XRModule.dll</HintPath>
 		</Reference>
 		<Reference Include="MelonLoader">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\net6\MelonLoader.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\net6\MelonLoader.dll</HintPath>
 		</Reference>
 		<Reference Include="0Harmony">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\net6\0Harmony.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\net6\0Harmony.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppInterop.Runtime">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\net6\Il2CppInterop.Runtime.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\net6\Il2CppInterop.Runtime.dll</HintPath>
 		</Reference>
 		<Reference Include="Il2CppInterop.Common">
-			<HintPath>Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\net6\Il2CppInterop.Common.dll</HintPath>
+			<HintPath>Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\MelonLoader\net6\Il2CppInterop.Common.dll</HintPath>
 		</Reference>
 
 	</ItemGroup>
@@ -493,6 +493,6 @@
 	</ItemGroup>
 	
 	<Target Name="PostBuild" AfterTargets="PostBuildEvent">
-		<Exec Command="COPY &quot;$(TargetPath)&quot; &quot;Y:\Steam\steamapps\common\Pantheon Rise of the Fallen\Mods&quot;" />
+		<Exec Command="COPY &quot;$(TargetPath)&quot; &quot;Z:\SteamLibrary\steamapps\common\Pantheon Rise of the Fallen\Mods&quot;" />
 	</Target>
 </Project>

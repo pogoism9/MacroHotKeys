@@ -23,12 +23,6 @@ public class MacroHotKeys : Addon
     {
         var macroBar = UIMacroBar.Instance;
 
-        var mList = MacroLists.GetAllMacros();
-
-        foreach(var macro in mList.Buttons)
-        {
-            MelonLogger.Msg("Macro found - " + macro);
-        }
         // Initialize the dictionary in the constructor
         _keypadMacroMap = new Dictionary<int, string>
         {
@@ -54,7 +48,11 @@ public class MacroHotKeys : Addon
         {
             return;
         }
-
+        var mList = Macros.GetAllMacros();
+        foreach (var macro in mList)
+        {
+            MelonLogger.Msg("Macro found - " + macro.Name);
+        }
         ProcessKeypadMacros();
     }
 
