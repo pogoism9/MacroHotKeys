@@ -16,44 +16,54 @@ public class MacroHotKeys : Addon
 
     // Create a mapping of keypad numbers to macro names
     // Use int or the appropriate enum type instead of KeyCodes for the dictionary key
-    private readonly Dictionary<int, string> _keypadMacroMap;
-
+    private readonly Dictionary<int, string> _keypadMacroMap = new Dictionary<int, string>();
 
     public MacroHotKeys()
     {
         var macroBar = UIMacroBar.Instance;
 
-        // Initialize the dictionary in the constructor
-        _keypadMacroMap = new Dictionary<int, string>
-        {
-            { KeyCodes.Keypad1, "Target Sherder" },
-            { KeyCodes.Keypad2, "loc" },
-            { KeyCodes.Keypad3, "BUFF" },
-            { KeyCodes.Keypad4, "test 1" },
-            { KeyCodes.Keypad5, "test 2" },
-            { KeyCodes.Keypad6, "test 3" },
-            { KeyCodes.Keypad7, "test 4" },
-            { KeyCodes.Keypad8, "test 5" }
-        };
+        
+    
     }
 
     public override void OnCreate()
     {
         LifecycleEvents.OnUpdate.Subscribe(OnUpdate);
     }
-
-    private void OnUpdate()
+    private bool _hasFetchedMacros = false;
+private void OnUpdate()
     {
         if (!_isActive)
         {
             return;
         }
-        var mList = Macros.GetAllMacros();
-        foreach (var macro in mList)
+        if (_hasFetchedMacros)
         {
-            MelonLogger.Msg("Macro found - " + macro.Name);
+            ProcessKeypadMacros();
+            return; // Skip if we've already fetched macros
         }
-        ProcessKeypadMacros();
+        try
+        {
+            int i = 257;
+            var mList = Macros.GetAllMacros();
+            if (mList != null)
+            {
+                foreach (var macro in mList)
+                {
+                    MelonLogger.Msg("Macro found - " + macro.Name + ", assigned to key " + i.ToString());
+                    _keypadMacroMap.Add(i, macro.Name);
+                    i++;
+                }
+                _hasFetchedMacros = true; // Mark as fetched so we don't run again
+            }
+            ProcessKeypadMacros();
+        }
+        catch(NullReferenceException)
+        {
+            //MelonLogger.Msg("Character Not Loaded - List is empty");
+        }
+        
+
     }
 
     // Method to check for key presses and activate macros
