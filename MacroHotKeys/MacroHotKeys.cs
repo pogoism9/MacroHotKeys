@@ -20,10 +20,8 @@ public class MacroHotKeys : Addon
 
     public MacroHotKeys()
     {
-        var macroBar = UIMacroBar.Instance;
-
         
-    
+
     }
 
     public override void OnCreate()
@@ -33,6 +31,7 @@ public class MacroHotKeys : Addon
     private bool _hasFetchedMacros = false;
 private void OnUpdate()
     {
+
         if (!_isActive)
         {
             return;
@@ -45,7 +44,7 @@ private void OnUpdate()
         try
         {
             int i = 257;
-            var mList = Macros.GetAllMacros();
+            var mList = Macros.GetAll();
             if (mList != null)
             {
                 foreach (var macro in mList)
@@ -58,11 +57,10 @@ private void OnUpdate()
             }
             ProcessKeypadMacros();
         }
-        catch(NullReferenceException)
+        catch (NullReferenceException)
         {
             //MelonLogger.Msg("Character Not Loaded - List is empty");
         }
-        
 
     }
 
